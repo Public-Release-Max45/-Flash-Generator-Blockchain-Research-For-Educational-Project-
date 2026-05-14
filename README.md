@@ -13,7 +13,6 @@ designed to explain how "flash USDT" systems are advertised online,
 how blockchain transactions actually work, and how to identify fake  
 crypto balance claims.
 
-> ⚠️ This project is NOT a real crypto generator.
 
 ### 🎯 Purpose of This Project
 
@@ -74,7 +73,7 @@ If you have questions, suggestions, or would like to collaborate on this project
 - 📧 Email: devptx23@gmail.com
 - 💬 Telegram: https://t.me/miro_Hof
 
-For project discussions and educational collaboration.
+For project discussions and educational collaboration
 
 ---
 
