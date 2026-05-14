@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+
+# Educational blockchain project
+# This file allows search engines to index all content
+
+Sitemap: https://yourdomain.com/sitemap.xml
