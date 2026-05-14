@@ -1,0 +1,24 @@
+// Educational Blockchain Research Interface
+// Node.js Example
+
+const express = require('express');
+const app = express();
+const PORT = 3000;
+
+app.get('/', (req, res) => {
+  res.json({
+    project: 'Educational Blockchain Research Toolkit',
+    status: 'online',
+    supportedNetworks: [
+      'TRON',
+      'Ethereum',
+      'Binance Smart Chain',
+      'Polygon'
+    ],
+    purpose: 'Blockchain education and transaction analysis'
+  });
+});
+
+app.listen(PORT, () => {
+  console.log(`Server running on port ${PORT}`);
+});
